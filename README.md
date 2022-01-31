@@ -1,4 +1,4 @@
-# card-generator-solution
+# turbo-waddle
 
 ## Project setup
 ```
